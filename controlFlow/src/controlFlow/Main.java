@@ -8,41 +8,6 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-//		System.out.println("Howdy, World");
-		
-//		System.out.println("Numbers");
-//		AsciiChars.printNumbers();
-//		System.out.println("Lowercase letters:");
-//		AsciiChars.printLowerCase();
-//		System.out.println("Uppercase letters:");
-//		AsciiChars.printUpperCase();
-		
-		
-// PLEASE IGNORE ALL OF THIS - THE PROCESS ISN'T PRETTY LOL 
-//
-//				System.out.println("Do you have a red car? (y/n)");
-//				String userSecondResponse = userInput.nextLine();
-//				
-//				System.out.println("What is the name of your favorite pet?");
-//				String namePet = userInput.nextLine();
-//				
-//				System.out.println("What is the age of your favorite pet?");
-//				String agePet = userInput.nextLine();
-//				
-//				System.out.println("What is your lucky number?");
-//				String userThirdResponse = userInput.nextLine();
-//				
-//				System.out.println("Do you have a favorite quarter-back? If so, what is their jersey number?");
-//				String userFourthResponse = userInput.nextLine();
-//				
-//				System.out.println("What two digit year is your car? The bourgeois would like to know.");
-//				String userFifthResponse = userInput.nextLine();
-//				
-//				System.out.println("What is the name of your favorite actor or actress? Extra points if yours isn't a Scientologist.");
-//				String userSixthResponse = userInput.nextLine();
-//				
-//				System.out.println("Enter a random number between 1 and 50.");
-//				String userSeventhResponse = userInput.nextLine();
 				
 		
 	ArrayList<String> questions = new ArrayList<>();
